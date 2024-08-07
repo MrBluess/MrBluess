@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on hey, Banco<br>👯 I’m looking to collaborate on F Games<br>🤝 I’m looking for help with AutomationPython<br>🌱 I’m currently learning Open CV<br>💬 Ask me about Python<br>⚡ Fun fact... I love cheese
+🔭 I’m free agent<br>👯 I’m looking to collaborate with you<br>🤝 I’m looking for help with AutomationPython<br>🌱 I’m currently learning Open CV<br>💬 Ask me about Python<br>⚡ Fun fact... I love cheese
 
 
 # 💻 Tech Stack:
